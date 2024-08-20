@@ -1,0 +1,12 @@
+.Navbar{
+    background-color: black;
+    color: white;
+    height: 30px;
+    display: flex;
+}
+.navbar-link{
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    cursor: pointer;
+}
